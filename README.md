@@ -63,12 +63,14 @@ Scatter plot: Actual vs Predicted closing prices
 -These help understand both the dataset behavior and model accuracy.
 
 ----------Explanation of Results------------
+
 The evaluation metrics show that the model predicts the next-day closing price with reasonable accuracy.
 A low MAE and MSE mean the model’s errors are small and stable, while a higher R² score indicates it captures most of the stock’s price patterns.
 Overall, the model tracks general trends well, though sudden market movements remain difficult to predict—which is normal for financial data.
 The Random Forest model performs well, but more advanced time-series methods could improve forecast accuracy.
 
 -----------Final Insights-----------
+
 -The model learned patterns from 2 years of Apple stock data.
 -Scatter plot shows how closely predictions follow actual closing prices.
 -MAE/MSE indicate the typical prediction error in dollars.
