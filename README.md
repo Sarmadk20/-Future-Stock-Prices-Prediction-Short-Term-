@@ -12,7 +12,7 @@ Historical stock data is fetched using Yahoo Finance, preprocessed, visualized, 
 -Build a regression model to predict next-day closing prices
 -Evaluate and explain model performance
 -Plot actual vs predicted values
-
+ 
 -----------Dataset-----------
 
 -Source: Yahoo Finance
